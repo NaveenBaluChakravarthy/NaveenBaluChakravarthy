@@ -2,6 +2,6 @@
 
 ### About Me
 
- - :robot: Machine Learning Engineer and Data Scientist\
- - :bat: Die-hard fan of TheBat\
- - :briefcase: Fractalite\
+:robot: Machine Learning Engineer and Data Scientist\
+:bat: Die-hard fan of TheBat\
+:briefcase: Fractalite\
