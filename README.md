@@ -1,9 +1,5 @@
-### I'm Naveen Chakravarthy Balasubramanian. 👋
+#I'm Naveen Chakravarthy Balasubramanian.
 
+:robot: Machine Learning Engineer and Data Scientist
 
-
-
-
-
-
-[linkedin]: https://linkedin.com/in/naveen-chakravarthy-balasubramanian-b21338b0
+:briefcase: Fractalite
