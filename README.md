@@ -6,7 +6,8 @@
 ### About Me
 
 :robot: Machine Learning Engineer and Data Scientist\
-:bat: Die-hard fan of TheBat\
+:1234: Madly in love with Mathematics\
+:bat: Die-hard fan of TheBat #nerd\
 :briefcase: Fractalite | Ex-TCSer
 
 #  
